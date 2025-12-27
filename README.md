@@ -35,3 +35,11 @@ Repository for the Academic Paper: *Academic Competition in Clan Relationships i
 仓库文件会随论文修订持续更新，具体版本变化可参考仓库的`Commits`提交记录；论文中引用的官方数据（如2024年普高/本科升学率）均来自中华人民共和国教育部官网，外文文献已标注原文出处。
 
 
+## 五、版权声明
+© 2025 柴桑（NewtNorlly）
+本仓库内的论文文本、研究资料及相关内容，仅供**学术交流、非商业性学习参考**使用：
+1. 若引用本论文内容，需注明出处：
+   柴桑. 《当代南方地区宗族关系中的学业竞争》[学术论文项目]. GitHub仓库: https://github.com/NewtNorlly/Sociology-Editorial-Office
+2. 未经作者书面许可，不得将本仓库内容用于商业用途、二次创作或其他侵权性使用。
+
+
